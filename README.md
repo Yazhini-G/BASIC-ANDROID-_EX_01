@@ -1,4 +1,4 @@
-# Date: 22-08-2024
+# Date: 
 # BASIC-ANDROID-_EX_01_Implementation of a Hello world Activity using all lifecycles methods using Android Studio.
 
 
